@@ -1,0 +1,18 @@
+# Ignore sensitive config
+.env
+
+# Ignore shell history backups or temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# Ignore logs if you create them
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code config (if using)
+.vscode/
